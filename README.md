@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Caroline Goulart! Nice to meet you. :)
 
-<!--
-**carolinegoulart/carolinegoulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about how technology can change people's lives, so it motivates me to be a continuous learner. :heart:
 
-Here are some ideas to get you started:
+I'm an Engineer graduated from PUCRS and the University of Tennessee, Knoxville, EUA. I'm currently working with Java (TDD, Spring Boot, Spring Data JPA, APIs Rest, Microservices Architecture, SQL, and MariaDB), but I'm also experienced in Python, JavaScript, NodeJs, ReactJs, React Native, MySQL, PostgreSQL, Linux, and Git. I'm fluent and certified in English.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm focusing on 👨‍💻
+
+Currently improving my React skills: NodeJs, ReactJs, React Native.<br/>
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/carolinegoulart/) 
