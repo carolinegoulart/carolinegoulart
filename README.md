@@ -2,7 +2,7 @@
 
 I'm passionate about how technology can change people's lives, so it motivates me to be a continuous learner. :heart:
 
-I'm an Engineer based in São Paulo, Brazil, and I work as Back-end Java Developer (TDD, Spring Boot, Spring Data JPA, APIs Rest, Microservices Architecture, SQL, and MariaDB), but I'm also experienced in Python, JavaScript, NodeJs, ReactJs, React Native, MySQL, PostgreSQL, Linux, and Git. I'm fluent and certified in English.<br/>
+I'm an Engineer based in São Paulo, Brazil, and I work as Back-end Java Developer (TDD, Spring Boot, Spring Data JPA, APIs Rest, Microservices Architecture, SQL), but I'm also experienced in Python, JavaScript, NodeJs, ReactJs, and React Native.<br/>
 
 ### What I'm focusing on :woman_technologist:
 
