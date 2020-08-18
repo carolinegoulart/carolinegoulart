@@ -6,7 +6,7 @@ I'm an Engineer based in São Paulo, Brazil, and I work as Back-end Java Develop
 
 ### What I'm focusing on :woman_technologist:
 
-Currently improving my skills in ReactJS, NodeJs, React Native, and JavaScript (TypeScript).<br/>
+Currently improving my skills in ReactJS, Redux, NodeJs (Yarn, TypeORM), React Native, and JavaScript (TypeScript).<br/>
 
 ### Find me elsewhere :earth_americas:
 
