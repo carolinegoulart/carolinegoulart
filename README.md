@@ -2,11 +2,11 @@
 
 I'm passionate about how technology can change people's lives, so it motivates me to be a continuous learner. :heart:
 
-I'm an Engineer based in São Paulo, Brazil, and I work as Back-end Java Developer (TDD, Spring Boot, Spring Data JPA, APIs Rest, Microservices Architecture, SQL), but I'm also experienced in Python, JavaScript, NodeJs, ReactJs, and React Native.<br/>
+I'm an Engineer based in São Paulo, Brazil, and I work as Back-end Java Developer (TDD, Spring Boot, Hibernate/Spring Data JPA, APIs Rest, Microservices Architecture, SQL), but I'm also experienced in Python, JavaScript(TypeScript), NodeJs, ReactJs, and React Native.<br/>
 
 ### What I'm focusing on :woman_technologist:
 
-Currently improving my skills in ReactJS (Context API), NodeJs (Yarn, TypeORM), React Native, and JavaScript (TypeScript).<br/>
+Currently improving my skills in ReactJS (Context API, Redux), NodeJs (Yarn, TypeORM), and React Native.<br/>
 
 ### Find me elsewhere :earth_americas:
 
