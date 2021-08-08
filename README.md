@@ -1,4 +1,4 @@
-### Hey, I'm Caroline Goulart! Nice to meet you. :)
+### Hey, I'm Caroline! Nice to meet you. :)
 
 I'm passionate about how technology can change people's lives, so it motivates me to be a continuous learner. :heart:
 
