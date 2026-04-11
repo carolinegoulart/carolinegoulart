@@ -1,12 +1,6 @@
 ### Hey, I'm Caroline! Nice to meet you. :)
 
-I'm passionate about how technology can change people's lives, so it motivates me to be a continuous learner. :heart:
-
-I'm an Engineer based in São Paulo, Brazil, and I work as Back-end Java Developer (Spring Framework, Spring Data JPA, APIs Rest, Microservices Architecture, RESTFul APIs, SQL and NoSQL databases, event streaming with Kafka, and Git), but I'm also experienced in GoLang, JavaScript(TypeScript), and  NodeJs.<br/>
-
-### What I'm focusing on :woman_technologist:
-
-Currently improving my skills in frontend using ReactJs (NextJs, Context API).<br/>
+I'm a Backend Engineer with 6+ years of experience building and operating distributed systems within the payments industry. I'm currently transitioning into a DevOps-focused role, actively studying and applying concepts such as monitoring, Infrastructure as Code, and automation.
 
 ### Find me elsewhere :earth_americas:
 
