@@ -1,7 +1,8 @@
-### Hey, I'm Caroline! Nice to meet you. :)
+### Hey, I'm Caroline!
 
-I'm a Backend Engineer with 6+ years of experience building and operating distributed systems within the payments industry. I'm currently transitioning into a DevOps-focused role, actively studying and applying concepts such as monitoring, Infrastructure as Code, and automation.
+I'm a DevOps Engineer with a 6+ year background in backend engineering within the payments industry. Hands-on with AWS, Terraform, and CI/CD pipelines, with a focus on monitoring, automation, and scalable cloud architecture. AWS Certified. Fluent in English.
 
 ### Find me elsewhere :earth_americas:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/carolinegoulart/)
+
